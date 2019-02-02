@@ -6,7 +6,7 @@ By varying the Seam Depth and Seam Gap, one can make the start and stop of the p
 
 In KISS slicer, print the test objects with the corresponding settings to correlate the variables.   
 
-Author is gratefule to the assistance provided by the IRC #openscad group for guidance in writing and debugging this. 
+Author is gratefull to the guidance provided by the IRC #openscad group in this endeavour.
 
 ![Overview](https://github.com/nionio6915/KISS-Test-Blocks/blob/master/Pics/Slide1.PNG)
 ![Seam Depth](https://github.com/nionio6915/KISS-Test-Blocks/blob/master/Pics/Slide2.PNG)
