@@ -13,3 +13,4 @@ Author is gratefull to the guidance provided by the IRC #openscad group in this 
 ![Seam Gap](https://github.com/nionio6915/KISS-Test-Blocks/blob/master/Pics/Slide3.PNG)
 ![Seam Join](https://github.com/nionio6915/KISS-Test-Blocks/blob/master/Pics/Slide4.PNG)
 ![Seam Full](https://github.com/nionio6915/KISS-Test-Blocks/blob/master/Pics/Slide5.PNG)
+![Seam Comparison](https://github.com/nionio6915/KISS-Test-Blocks/blob/master/Pics/Slide6.PNG)
